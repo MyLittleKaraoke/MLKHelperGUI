@@ -1,0 +1,8 @@
+c:\users\yaymuffins\documents\visual studio 2013\Projects\MLKHelperGUI\MLKHelperGUI\bin\Release\MLKHelperGUI.exe
+c:\users\yaymuffins\documents\visual studio 2013\Projects\MLKHelperGUI\MLKHelperGUI\bin\Release\MLKHelperGUI.pdb
+c:\users\yaymuffins\documents\visual studio 2013\Projects\MLKHelperGUI\MLKHelperGUI\obj\Release\MLKHelperGUI.Form1.resources
+c:\users\yaymuffins\documents\visual studio 2013\Projects\MLKHelperGUI\MLKHelperGUI\obj\Release\MLKHelperGUI.Properties.Resources.resources
+c:\users\yaymuffins\documents\visual studio 2013\Projects\MLKHelperGUI\MLKHelperGUI\obj\Release\MLKHelperGUI.csproj.GenerateResource.Cache
+c:\users\yaymuffins\documents\visual studio 2013\Projects\MLKHelperGUI\MLKHelperGUI\obj\Release\MLKHelperGUI.exe
+c:\users\yaymuffins\documents\visual studio 2013\Projects\MLKHelperGUI\MLKHelperGUI\obj\Release\MLKHelperGUI.pdb
+C:\Users\YayMuffins\Documents\Visual Studio 2013\Projects\MLKHelperGUI\MLKHelperGUI\obj\Release\MLKHelperGUI.csprojResolveAssemblyReference.cache
